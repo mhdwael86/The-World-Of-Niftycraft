@@ -1,7 +1,7 @@
 # The-World-Of-Niftycraft
 The World of Nifty Craft is a 2D fantasy sandbox multiplayer RPG featuring a Real Time Card Battler combat system.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
 ## 🕹️ About the Project
 The World of Nifty Craft is a 2D fantasy sandbox multiplayer RPG featuring a Real Time Card Battler combat system.
@@ -18,7 +18,7 @@ The World of Nifty Craft is a 2D fantasy sandbox multiplayer RPG featuring a Rea
 ![Gameplay Screenshot](screenshot2.jpg)
 
 ## 👨‍💻 Role
-I developed the game mechanics and user interface, and implemented networking using C# in Unity with Nakama and Photon Fusion.
+I developed the game mechanics, user interface, and implemented networking using C# in Unity with Nakama and Photon Fusion.
 
 ## 🌐 Platform
 - Unity 2022
