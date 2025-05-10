@@ -15,7 +15,7 @@ The World of Nifty Craft is a 2D fantasy sandbox multiplayer RPG featuring a Rea
 [Watch Gameplay on Steam](https://store.steampowered.com/app/2438410/The_World_of_Nifty_Craft/)
 
 ## 📸 Screenshots
-![Gameplay Screenshot](screenshot2.jpg)
+![Gameplay Screenshot](niftycraft_demo.gif)
 
 ## 👨‍💻 Role
 I developed the game mechanics, user interface, and implemented networking using C# in Unity with Nakama and Photon Fusion.
